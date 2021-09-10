@@ -5,5 +5,5 @@ $ 🐈 about_me.txt
 
 - 🔭 I’m currently working on building an open source CRM dashboard for a non-profit here [gitlab.com/carletonblueprint/beneficent](https://gitlab.com/carletonblueprint/beneficent)
 - 📫 Visit my website here [hsohail.com](https://www.hsohail.com/) to reach out to me
-- 😄 My Pronouns are he/him
+- 😄 My pronouns are he/him
 - ⚡ Fun fact I can speak three (non-computer) languages fluently
