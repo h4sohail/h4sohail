@@ -4,8 +4,6 @@ $ 🐈 about_me.txt
 
 
 - 🔭 I’m currently working on building an open source CRM dashboard for a non-profit here [gitlab.com/carletonblueprint/beneficent](https://gitlab.com/carletonblueprint/beneficent)
-- 🌱 I’m currently learning ruby on rails
-- 💬 Ask me about my transition to Computer Science from Biology 
 - 📫 Visit my website here [hsohail.com](https://www.hsohail.com/) to reach out to me
 - 😄 My Pronouns are he/him
 - ⚡ Fun fact I can speak three (non-computer) languages fluently
